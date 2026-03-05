@@ -1,0 +1,25 @@
+[
+  {
+    "id": "7c0384f8-9900-42f9-983f-e30dde6d4049",
+    "date": "2026-03-05T21:45:12.090Z",
+    "serial_number": "HAY-BB-OFF-26-0089",
+    "combined_unit_ids": "BLD-A-FL1",
+    "unit_type": "Office Space",
+    "indoor_area": 500,
+    "service_area": 50,
+    "terrace_area": 100,
+    "include_service_area": true,
+    "indoor_price": 2500,
+    "terrace_price": 1250,
+    "indoor_total": 1375000,
+    "terrace_total": 125000,
+    "total_annual_rent": 1500000,
+    "grace_period": "3 months (3 أشهر)",
+    "contract_period": "5 years",
+    "contract_increment": "8% on year 5",
+    "parking_general": "2,000+",
+    "parking_vip": 1,
+    "parking_private": 6,
+    "tor": "1%"
+  }
+]
