@@ -1,13 +1,1 @@
-[
-  {
-    "unit_id": "BLD-B-RET2",
-    "building_name": "Building B",
-    "floor_level": "Ground",
-    "indoor_area": 120,
-    "terrace_area": 20,
-    "service_area": 10,
-    "leased_status": "Yes",
-    "category": "Standalone",
-    "parent_id": null
-  }
-]
+[]
