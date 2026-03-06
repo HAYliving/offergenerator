@@ -8,7 +8,8 @@
     "service_area": 50,
     "leased_status": "No",
     "category": "Parent",
-    "parent_id": null
+    "parent_id": null,
+    "unit_type": "Retail"
   },
   {
     "unit_id": "BLD-A-FL1-U1",
