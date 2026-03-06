@@ -922,17 +922,5 @@
     "leased_status": "No",
     "category": "",
     "parent_id": ""
-  },
-  {
-    "unit_id": "EX101",
-    "building_name": "G&F",
-    "floor_level": "ALL",
-    "unit_type": "Office Space",
-    "indoor_area": 12729,
-    "terrace_area": 2280,
-    "service_area": 1440,
-    "leased_status": "No",
-    "category": "",
-    "parent_id": ""
   }
 ]
