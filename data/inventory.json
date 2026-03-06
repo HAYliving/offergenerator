@@ -1,16 +1,5 @@
 [
   {
-    "unit_id": "BLD-A-FL1-U2",
-    "building_name": "Building A",
-    "floor_level": "1",
-    "indoor_area": 300,
-    "terrace_area": 50,
-    "service_area": 25,
-    "leased_status": "No",
-    "category": "Child",
-    "parent_id": "BLD-A-FL1"
-  },
-  {
     "unit_id": "BLD-B-RET1",
     "building_name": "Building B",
     "floor_level": "Ground",
