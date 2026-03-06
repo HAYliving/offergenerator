@@ -1,16 +1,5 @@
 [
   {
-    "unit_id": "BLD-B-RET1",
-    "building_name": "Building B",
-    "floor_level": "Ground",
-    "indoor_area": 150,
-    "terrace_area": 0,
-    "service_area": 10,
-    "leased_status": "No",
-    "category": "Standalone",
-    "parent_id": null
-  },
-  {
     "unit_id": "BLD-B-RET2",
     "building_name": "Building B",
     "floor_level": "Ground",
