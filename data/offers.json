@@ -21,5 +21,29 @@
     "parking_vip": 1,
     "parking_private": 6,
     "tor": "1%"
+  },
+  {
+    "id": "88d6d91f-7d2a-4a4f-be1c-3c9c550a26d0",
+    "date": "2026-03-06T12:16:23.799Z",
+    "serial_number": "260089",
+    "unit_type_abbreviation": "RET",
+    "combined_unit_ids": "BLD-A-FL1",
+    "unit_type": "Retail",
+    "indoor_area": 500,
+    "service_area": 50,
+    "terrace_area": 100,
+    "include_service_area": false,
+    "indoor_price": 3000,
+    "terrace_price": 2700,
+    "indoor_total": 1500000,
+    "terrace_total": 270000,
+    "total_annual_rent": 1770000,
+    "grace_period": "3 months (3 أشهر)",
+    "contract_period": "5 years",
+    "contract_increment": "8% on year 5",
+    "parking_general": "2,000+",
+    "parking_vip": 0,
+    "parking_private": 0,
+    "tor": "10%"
   }
 ]
