@@ -1,17 +1,5 @@
 [
   {
-    "unit_id": "BLD-A-FL1",
-    "building_name": "Building A",
-    "floor_level": "1",
-    "indoor_area": 500,
-    "terrace_area": 100,
-    "service_area": 50,
-    "leased_status": "No",
-    "category": "Parent",
-    "parent_id": null,
-    "unit_type": "Retail"
-  },
-  {
     "unit_id": "BLD-A-FL1-U1",
     "building_name": "Building A",
     "floor_level": "1",
