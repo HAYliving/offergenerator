@@ -45,5 +45,29 @@
     "parking_vip": 0,
     "parking_private": 0,
     "tor": "10%"
+  },
+  {
+    "id": "ff49d63e-0bc5-47c0-8710-20984961dd0c",
+    "date": "2026-03-08T08:38:25.033Z",
+    "serial_number": "260090",
+    "unit_type_abbreviation": "OFF",
+    "combined_unit_ids": "A-100",
+    "unit_type": "Office Space",
+    "indoor_area": 1776,
+    "service_area": 189,
+    "terrace_area": 475,
+    "include_service_area": true,
+    "indoor_price": 2200,
+    "terrace_price": 1100,
+    "indoor_total": 4323000,
+    "terrace_total": 522500,
+    "total_annual_rent": 4845500,
+    "grace_period": "3 months (3 أشهر)",
+    "contract_period": "10 years",
+    "contract_increment": "8% on year 5",
+    "parking_general": "2,000+",
+    "parking_vip": 3,
+    "parking_private": 23,
+    "tor": "1%"
   }
 ]
