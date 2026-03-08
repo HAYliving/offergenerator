@@ -118,5 +118,30 @@
     "parking_private": 56,
     "extra_parking": 14,
     "tor": "1%"
+  },
+  {
+    "id": "86a665d1-4d8c-432e-8b2b-41bf4184d30b",
+    "date": "2026-03-08T22:33:48.348Z",
+    "serial_number": "260093",
+    "unit_type_abbreviation": "OFF",
+    "combined_unit_ids": "A-100, A-200, A-300, A-400, A-500, A-600, A-700, A-800",
+    "unit_type": "Office Space",
+    "indoor_area": 12367,
+    "service_area": 1517,
+    "terrace_area": 3025,
+    "include_service_area": true,
+    "indoor_price": 2200,
+    "terrace_price": 1100,
+    "indoor_total": 30544800,
+    "terrace_total": 3327500,
+    "total_annual_rent": 33872300,
+    "grace_period": "6 months",
+    "contract_period": "15 years",
+    "contract_increment": "8% on year 5",
+    "parking_general": "2,000+",
+    "parking_vip": 24,
+    "parking_private": 164,
+    "extra_parking": 6,
+    "tor": "1%"
   }
 ]
