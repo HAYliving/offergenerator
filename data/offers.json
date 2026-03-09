@@ -221,5 +221,31 @@
     "extra_parking": 0,
     "extra_reserved_parking": 0,
     "tor": "10%"
+  },
+  {
+    "id": "22bef934-bd75-495e-ac08-234a063afd17",
+    "date": "2026-03-09T07:50:30.252Z",
+    "serial_number": "260097",
+    "unit_type_abbreviation": "OFF",
+    "combined_unit_ids": "I-600",
+    "unit_type": "Office Space",
+    "indoor_area": 821,
+    "service_area": 254,
+    "terrace_area": 104,
+    "include_service_area": true,
+    "indoor_price": 2600,
+    "terrace_price": 2200,
+    "indoor_total": 2795000,
+    "terrace_total": 228800,
+    "total_annual_rent": 3023800,
+    "grace_period": "3 months (3 أشهر)",
+    "contract_period": "5 years",
+    "contract_increment": "8% on year 5",
+    "parking_general": "2,000+",
+    "parking_vip": 1,
+    "parking_private": 10,
+    "extra_parking": 0,
+    "extra_reserved_parking": 0,
+    "tor": "10%"
   }
 ]
