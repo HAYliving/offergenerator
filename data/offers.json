@@ -169,5 +169,31 @@
     "extra_parking": 0,
     "extra_reserved_parking": 0,
     "tor": "1%"
+  },
+  {
+    "id": "b0a8456e-afe6-43c3-93cf-5dacfe1b5ff5",
+    "date": "2026-03-09T00:01:24.079Z",
+    "serial_number": "260095",
+    "unit_type_abbreviation": "GEN",
+    "combined_unit_ids": "C-002",
+    "unit_type": "SERVICE",
+    "indoor_area": 88,
+    "service_area": 0,
+    "terrace_area": 23,
+    "include_service_area": true,
+    "indoor_price": 2100,
+    "terrace_price": 1050,
+    "indoor_total": 184800,
+    "terrace_total": 24150,
+    "total_annual_rent": 208950,
+    "grace_period": "3 months (3 أشهر)",
+    "contract_period": "5 years",
+    "contract_increment": "8% on year 5",
+    "parking_general": "2,000+",
+    "parking_vip": 0,
+    "parking_private": 0,
+    "extra_parking": 0,
+    "extra_reserved_parking": 0,
+    "tor": "10%"
   }
 ]
