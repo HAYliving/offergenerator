@@ -195,5 +195,31 @@
     "extra_parking": 0,
     "extra_reserved_parking": 0,
     "tor": "10%"
+  },
+  {
+    "id": "37012933-33ea-4faf-bf93-a94daf5c5ace",
+    "date": "2026-03-09T07:47:04.091Z",
+    "serial_number": "260096",
+    "unit_type_abbreviation": "FNB",
+    "combined_unit_ids": "D-001",
+    "unit_type": "F&B",
+    "indoor_area": 156,
+    "service_area": 0,
+    "terrace_area": 34,
+    "include_service_area": true,
+    "indoor_price": 2600,
+    "terrace_price": 2200,
+    "indoor_total": 405600,
+    "terrace_total": 74800,
+    "total_annual_rent": 480400,
+    "grace_period": "3 months (3 أشهر)",
+    "contract_period": "5 years",
+    "contract_increment": "8% on year 5",
+    "parking_general": "2,000+",
+    "parking_vip": 0,
+    "parking_private": 0,
+    "extra_parking": 0,
+    "extra_reserved_parking": 0,
+    "tor": "10%"
   }
 ]
