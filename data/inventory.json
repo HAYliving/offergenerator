@@ -271,7 +271,7 @@
     "indoor_area": 160,
     "terrace_area": 30,
     "service_area": 0,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
