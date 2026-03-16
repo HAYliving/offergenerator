@@ -327,5 +327,32 @@
     "extra_reserved_parking": 0,
     "tor": "1%",
     "is_merged_lease": true
+  },
+  {
+    "id": "a71d75b1-6cda-40de-9e3d-183d294096cf",
+    "date": "2026-03-16T11:55:22.241Z",
+    "serial_number": "260101",
+    "unit_type_abbreviation": "OFF",
+    "combined_unit_ids": "H-600",
+    "unit_type": "Office Space",
+    "indoor_area": 2392,
+    "service_area": 238,
+    "terrace_area": 0,
+    "include_service_area": true,
+    "indoor_price": 2350,
+    "terrace_price": 2350,
+    "indoor_total": 6180500,
+    "terrace_total": 0,
+    "total_annual_rent": 6180500,
+    "grace_period": "3 months (3 أشهر)",
+    "contract_period": "5 years",
+    "contract_increment": "8% on year 5",
+    "parking_general": "2,000+",
+    "parking_vip": 4,
+    "parking_private": 31,
+    "extra_parking": 0,
+    "extra_reserved_parking": 0,
+    "tor": "1%",
+    "is_merged_lease": false
   }
 ]
