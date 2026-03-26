@@ -381,5 +381,32 @@
     "extra_reserved_parking": 0,
     "tor": "1%",
     "is_merged_lease": true
+  },
+  {
+    "id": "787e4341-3678-4cc8-8688-9614b56726f4",
+    "date": "2026-03-26T16:11:21.102Z",
+    "serial_number": "260103",
+    "unit_type_abbreviation": "GEN",
+    "combined_unit_ids": "A-0013",
+    "unit_type": "F&B / SERVICE",
+    "indoor_area": 74,
+    "service_area": 0,
+    "terrace_area": 0,
+    "include_service_area": true,
+    "indoor_price": 3000,
+    "terrace_price": 0,
+    "indoor_total": 222000,
+    "terrace_total": 0,
+    "total_annual_rent": 222000,
+    "grace_period": "3 months (3 أشهر)",
+    "contract_period": "5 years",
+    "contract_increment": "8% on year 5",
+    "parking_general": "2,000+",
+    "parking_vip": 0,
+    "parking_private": 0,
+    "extra_parking": 0,
+    "extra_reserved_parking": 0,
+    "tor": "8%",
+    "is_merged_lease": false
   }
 ]
