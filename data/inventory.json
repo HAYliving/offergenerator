@@ -259,7 +259,7 @@
     "indoor_area": 720,
     "terrace_area": 273,
     "service_area": 143,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
