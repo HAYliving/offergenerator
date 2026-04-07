@@ -949,5 +949,33 @@
     "tor": "7%",
     "is_merged_lease": false,
     "payment_frequency": "Semi-Annually"
+  },
+  {
+    "id": "0a0d8f58-6f05-472b-ba26-c51ef3584cee",
+    "date": "2026-04-07T11:50:34.450Z",
+    "serial_number": "260124",
+    "unit_type_abbreviation": "OFF",
+    "combined_unit_ids": "A-100",
+    "unit_type": "Office Space",
+    "indoor_area": 1776,
+    "service_area": 189,
+    "terrace_area": 475,
+    "include_service_area": true,
+    "indoor_price": 2000,
+    "terrace_price": 500,
+    "indoor_total": 3930000,
+    "terrace_total": 237500,
+    "total_annual_rent": 4167500,
+    "grace_period": "Mar 2027",
+    "contract_period": "5 years",
+    "contract_increment": "",
+    "parking_general": "2,000+",
+    "parking_vip": 3,
+    "parking_private": 23,
+    "extra_parking": 0,
+    "extra_reserved_parking": 0,
+    "tor": "1%",
+    "is_merged_lease": false,
+    "payment_frequency": "Semi-Annually"
   }
 ]
