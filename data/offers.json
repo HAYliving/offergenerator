@@ -921,5 +921,33 @@
     "extra_reserved_parking": 0,
     "tor": "7%",
     "is_merged_lease": false
+  },
+  {
+    "id": "b0304721-5f13-4aae-aaa6-2be052777132",
+    "date": "2026-04-07T10:07:52.851Z",
+    "serial_number": "260123",
+    "unit_type_abbreviation": "FNB",
+    "combined_unit_ids": "H-001",
+    "unit_type": "F&B",
+    "indoor_area": 375,
+    "service_area": 53,
+    "terrace_area": 100,
+    "include_service_area": true,
+    "indoor_price": 2700,
+    "terrace_price": 1350,
+    "indoor_total": 1155600,
+    "terrace_total": 135000,
+    "total_annual_rent": 1290600,
+    "grace_period": "3 months (3 أشهر)",
+    "contract_period": "10 years",
+    "contract_increment": "8% on year 5",
+    "parking_general": "2,000+",
+    "parking_vip": 0,
+    "parking_private": 0,
+    "extra_parking": 0,
+    "extra_reserved_parking": 0,
+    "tor": "7%",
+    "is_merged_lease": false,
+    "payment_frequency": "Semi-Annually"
   }
 ]
