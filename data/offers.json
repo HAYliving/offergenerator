@@ -1341,5 +1341,33 @@
     "tor": "1%",
     "is_merged_lease": false,
     "payment_frequency": "Semi-Annually"
+  },
+  {
+    "id": "0699efa4-fae5-4e1c-b821-b22b39280f1a",
+    "date": "2026-04-08T11:25:07.726Z",
+    "serial_number": "260138",
+    "unit_type_abbreviation": "OFF",
+    "combined_unit_ids": "I-301, I-302",
+    "unit_type": "Office Space",
+    "indoor_area": 326,
+    "service_area": 0,
+    "terrace_area": 51,
+    "include_service_area": true,
+    "indoor_price": 2400,
+    "terrace_price": 1200,
+    "indoor_total": 782400,
+    "terrace_total": 61200,
+    "total_annual_rent": 843600,
+    "grace_period": "Sep 2026",
+    "contract_period": "5 years",
+    "contract_increment": "8% on year 5",
+    "parking_general": "2,000+",
+    "parking_vip": 0,
+    "parking_private": 4,
+    "extra_parking": 0,
+    "extra_reserved_parking": 1,
+    "tor": "1%",
+    "is_merged_lease": false,
+    "payment_frequency": "Semi-Annually"
   }
 ]
