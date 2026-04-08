@@ -1369,5 +1369,33 @@
     "tor": "1%",
     "is_merged_lease": false,
     "payment_frequency": "Semi-Annually"
+  },
+  {
+    "id": "c7079453-9568-4877-aec6-22f27673d8ab",
+    "date": "2026-04-08T16:23:26.207Z",
+    "serial_number": "260139",
+    "unit_type_abbreviation": "OFF",
+    "combined_unit_ids": "F-100, F-200, F-300, F-400, F-500",
+    "unit_type": "Office Space",
+    "indoor_area": 3740,
+    "service_area": 605,
+    "terrace_area": 966,
+    "include_service_area": false,
+    "indoor_price": 2420,
+    "terrace_price": 1210,
+    "indoor_total": 9050800,
+    "terrace_total": 1168860,
+    "total_annual_rent": 10219660,
+    "grace_period": "Dec 2026",
+    "contract_period": "5 years",
+    "contract_increment": "8% on year 5",
+    "parking_general": "2,000+",
+    "parking_vip": 7,
+    "parking_private": 49,
+    "extra_parking": 0,
+    "extra_reserved_parking": 0,
+    "tor": "1%",
+    "is_merged_lease": false,
+    "payment_frequency": "Semi-Annually"
   }
 ]
