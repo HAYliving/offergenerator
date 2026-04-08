@@ -1201,5 +1201,33 @@
     "tor": "1%",
     "is_merged_lease": false,
     "payment_frequency": "Semi-Annually"
+  },
+  {
+    "id": "b309d7d8-f6d5-46c4-9b2a-61d72fbb3df0",
+    "date": "2026-04-08T10:09:14.880Z",
+    "serial_number": "260133",
+    "unit_type_abbreviation": "OFF",
+    "combined_unit_ids": "A-300",
+    "unit_type": "Office Space",
+    "indoor_area": 1022,
+    "service_area": 188,
+    "terrace_area": 1007,
+    "include_service_area": true,
+    "indoor_price": 2000,
+    "terrace_price": 500,
+    "indoor_total": 2420000,
+    "terrace_total": 503500,
+    "total_annual_rent": 2923500,
+    "grace_period": "Mar 2027",
+    "contract_period": "5 years",
+    "contract_increment": "8% on year 5",
+    "parking_general": "2,000+",
+    "parking_vip": 2,
+    "parking_private": 13,
+    "extra_parking": 0,
+    "extra_reserved_parking": 0,
+    "tor": "1%",
+    "is_merged_lease": false,
+    "payment_frequency": "Semi-Annually"
   }
 ]
