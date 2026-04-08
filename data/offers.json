@@ -1313,5 +1313,33 @@
     "tor": "1%",
     "is_merged_lease": false,
     "payment_frequency": "Semi-Annually"
+  },
+  {
+    "id": "dad5dc75-3140-4f3a-a5a3-7b9f49bfaf91",
+    "date": "2026-04-08T11:24:03.851Z",
+    "serial_number": "260137",
+    "unit_type_abbreviation": "OFF",
+    "combined_unit_ids": "I-201",
+    "unit_type": "Office Space",
+    "indoor_area": 190,
+    "service_area": 0,
+    "terrace_area": 30,
+    "include_service_area": true,
+    "indoor_price": 2400,
+    "terrace_price": 1200,
+    "indoor_total": 456000,
+    "terrace_total": 36000,
+    "total_annual_rent": 492000,
+    "grace_period": "Sep 2026",
+    "contract_period": "5 years",
+    "contract_increment": "8% on year 5",
+    "parking_general": "2,000+",
+    "parking_vip": 0,
+    "parking_private": 2,
+    "extra_parking": 0,
+    "extra_reserved_parking": 1,
+    "tor": "1%",
+    "is_merged_lease": false,
+    "payment_frequency": "Semi-Annually"
   }
 ]
