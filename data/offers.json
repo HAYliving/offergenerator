@@ -1425,5 +1425,33 @@
     "tor": "1%",
     "is_merged_lease": false,
     "payment_frequency": "Semi-Annually"
+  },
+  {
+    "id": "a48c1d93-277e-4263-b675-8eeccbd98e2c",
+    "date": "2026-04-13T11:16:29.345Z",
+    "serial_number": "260141",
+    "unit_type_abbreviation": "FNB",
+    "combined_unit_ids": "A-700, A-800",
+    "unit_type": "F&B",
+    "indoor_area": 2803,
+    "service_area": 470,
+    "terrace_area": 828,
+    "include_service_area": false,
+    "indoor_price": 2000,
+    "terrace_price": 1000,
+    "indoor_total": 5606000,
+    "terrace_total": 828000,
+    "total_annual_rent": 6434000,
+    "grace_period": "Jun 2027",
+    "contract_period": "15 years",
+    "contract_increment": "8% on year 6",
+    "parking_general": "2,000+",
+    "parking_vip": 0,
+    "parking_private": 0,
+    "extra_parking": 20,
+    "extra_reserved_parking": 0,
+    "tor": "14%",
+    "is_merged_lease": false,
+    "payment_frequency": "Semi-Annually"
   }
 ]
