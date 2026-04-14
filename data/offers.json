@@ -1453,5 +1453,33 @@
     "tor": "14%",
     "is_merged_lease": false,
     "payment_frequency": "Semi-Annually"
+  },
+  {
+    "id": "d30bd525-8a0f-44d9-ad05-761c44c92763",
+    "date": "2026-04-14T12:54:00.250Z",
+    "serial_number": "260142",
+    "unit_type_abbreviation": "GEN",
+    "combined_unit_ids": "A-0011, A-0012",
+    "unit_type": "F&B / SERVICE",
+    "indoor_area": 368,
+    "service_area": 0,
+    "terrace_area": 52,
+    "include_service_area": true,
+    "indoor_price": 3000,
+    "terrace_price": 2250,
+    "indoor_total": 1104000,
+    "terrace_total": 117000,
+    "total_annual_rent": 1221000,
+    "grace_period": "Oct 2026",
+    "contract_period": "5 years",
+    "contract_increment": "8% on year 5",
+    "parking_general": "2,000+",
+    "parking_vip": 0,
+    "parking_private": 0,
+    "extra_parking": 0,
+    "extra_reserved_parking": 0,
+    "tor": "10%",
+    "is_merged_lease": false,
+    "payment_frequency": "Semi-Annually"
   }
 ]
