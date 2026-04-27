@@ -677,7 +677,7 @@
     "floor_level": "4th Floor",
     "unit_type": "Office Space",
     "indoor_area": 2650,
-    "terrace_area": 714,
+    "terrace_area": 0,
     "service_area": 237,
     "leased_status": "No",
     "category": "",
