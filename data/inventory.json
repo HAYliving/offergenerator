@@ -922,5 +922,17 @@
     "leased_status": "No",
     "category": "",
     "parent_id": ""
+  },
+  {
+    "unit_id": "C-301",
+    "building_name": "C",
+    "floor_level": "3",
+    "indoor_area": 235,
+    "terrace_area": 136,
+    "service_area": 42,
+    "leased_status": "No",
+    "category": "Child",
+    "parent_id": "C-300",
+    "unit_type": "Office Space"
   }
 ]
