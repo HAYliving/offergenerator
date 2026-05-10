@@ -320,7 +320,7 @@
     "terrace_area": 212,
     "service_area": 81,
     "leased_status": "No",
-    "category": "",
+    "category": "Parent",
     "parent_id": ""
   },
   {
