@@ -281,7 +281,7 @@
     "floor_level": "LGF",
     "unit_type": "SERVICE",
     "indoor_area": 80,
-    "terrace_area": 0,
+    "terrace_area": 23,
     "service_area": 0,
     "leased_status": "No",
     "category": "",
@@ -322,6 +322,30 @@
     "leased_status": "No",
     "category": "Parent",
     "parent_id": ""
+  },
+  {
+    "unit_id": "C-301",
+    "building_name": "C",
+    "floor_level": "3rd Floor",
+    "indoor_area": 235,
+    "terrace_area": 136,
+    "service_area": 42,
+    "leased_status": "No",
+    "category": "Child",
+    "parent_id": "C-300",
+    "unit_type": "Office Space"
+  },
+  {
+    "unit_id": "C-302",
+    "building_name": "C",
+    "floor_level": "3rd Floor",
+    "indoor_area": 152,
+    "terrace_area": 76,
+    "service_area": 42,
+    "leased_status": "No",
+    "category": "Child",
+    "parent_id": "C-300",
+    "unit_type": "Office Space"
   },
   {
     "unit_id": "D-001",
@@ -922,29 +946,5 @@
     "leased_status": "No",
     "category": "",
     "parent_id": ""
-  },
-  {
-    "unit_id": "C-301",
-    "building_name": "C",
-    "floor_level": "3rd Floor",
-    "indoor_area": 235,
-    "terrace_area": 136,
-    "service_area": 42,
-    "leased_status": "No",
-    "category": "Child",
-    "parent_id": "C-300",
-    "unit_type": "Office Space"
-  },
-  {
-    "unit_id": "C-302",
-    "building_name": "C",
-    "floor_level": "3rd Floor",
-    "indoor_area": 152,
-    "terrace_area": 76,
-    "service_area": 42,
-    "leased_status": "No",
-    "category": "Child",
-    "parent_id": "C-300",
-    "unit_type": "Office Space"
   }
 ]
