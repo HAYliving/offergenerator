@@ -7,7 +7,7 @@
     "indoor_area": 500,
     "terrace_area": 51,
     "service_area": 0,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Parent",
     "parent_id": ""
   },
@@ -319,7 +319,7 @@
     "indoor_area": 378,
     "terrace_area": 212,
     "service_area": 81,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Parent",
     "parent_id": ""
   },
@@ -775,7 +775,7 @@
     "indoor_area": 816,
     "terrace_area": 104,
     "service_area": 254,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Parent",
     "parent_id": ""
   },
