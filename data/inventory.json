@@ -19,7 +19,7 @@
     "indoor_area": 258,
     "terrace_area": 23,
     "service_area": 0,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Child",
     "parent_id": "A-001"
   },
@@ -31,7 +31,7 @@
     "indoor_area": 110,
     "terrace_area": 29,
     "service_area": 0,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Child",
     "parent_id": "A-001"
   },
@@ -211,7 +211,7 @@
     "indoor_area": 974,
     "terrace_area": 121,
     "service_area": 155,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
@@ -223,7 +223,7 @@
     "indoor_area": 975,
     "terrace_area": 121,
     "service_area": 143,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
@@ -235,7 +235,7 @@
     "indoor_area": 721,
     "terrace_area": 430,
     "service_area": 143,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
@@ -247,7 +247,7 @@
     "indoor_area": 820,
     "terrace_area": 121,
     "service_area": 143,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
@@ -259,7 +259,7 @@
     "indoor_area": 750,
     "terrace_area": 273,
     "service_area": 143,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
@@ -342,7 +342,7 @@
     "indoor_area": 152,
     "terrace_area": 76,
     "service_area": 42,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Child",
     "parent_id": "C-300",
     "unit_type": "Office Space"
@@ -787,7 +787,7 @@
     "indoor_area": 190,
     "terrace_area": 30,
     "service_area": 0,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Child",
     "parent_id": "I-200"
   },
