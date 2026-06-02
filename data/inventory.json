@@ -787,7 +787,7 @@
     "indoor_area": 190,
     "terrace_area": 30,
     "service_area": 0,
-    "leased_status": "Yes",
+    "leased_status": "No",
     "category": "Child",
     "parent_id": "I-200"
   },
