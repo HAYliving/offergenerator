@@ -342,7 +342,7 @@
     "indoor_area": 152,
     "terrace_area": 76,
     "service_area": 42,
-    "leased_status": "Yes",
+    "leased_status": "No",
     "category": "Child",
     "parent_id": "C-300",
     "unit_type": "Office Space"
