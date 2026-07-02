@@ -120,6 +120,19 @@
     "parent_id": ""
   },
   {
+    "unit_id": "A-501",
+    "project_name": "blvdbusiness",
+    "building_name": "A",
+    "floor_level": "5",
+    "indoor_area": 1243,
+    "terrace_area": 180,
+    "service_area": 0,
+    "leased_status": "No",
+    "category": "Parent",
+    "parent_id": "A-500",
+    "unit_type": "Office Space"
+  },
+  {
     "unit_id": "A-600",
     "building_name": "A",
     "floor_level": "6th Floor",
