@@ -309,7 +309,7 @@
     "indoor_area": 80,
     "terrace_area": 23,
     "service_area": 0,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
