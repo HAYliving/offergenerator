@@ -513,7 +513,7 @@
     "indoor_area": 858,
     "terrace_area": 110,
     "service_area": 121.5,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
@@ -525,7 +525,7 @@
     "indoor_area": 858,
     "terrace_area": 110,
     "service_area": 121.5,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
@@ -537,7 +537,7 @@
     "indoor_area": 643,
     "terrace_area": 388,
     "service_area": 119.5,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
@@ -549,7 +549,7 @@
     "indoor_area": 737,
     "terrace_area": 110,
     "service_area": 121.5,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
@@ -561,7 +561,7 @@
     "indoor_area": 644,
     "terrace_area": 248,
     "service_area": 121,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
@@ -573,7 +573,7 @@
     "indoor_area": 1366,
     "terrace_area": 129,
     "service_area": 121.5,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
@@ -585,7 +585,7 @@
     "indoor_area": 1369,
     "terrace_area": 129,
     "service_area": 121.5,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
@@ -597,7 +597,7 @@
     "indoor_area": 1399,
     "terrace_area": 129,
     "service_area": 119.5,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
@@ -609,7 +609,7 @@
     "indoor_area": 1095,
     "terrace_area": 474,
     "service_area": 121.5,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
@@ -621,7 +621,7 @@
     "indoor_area": 1230,
     "terrace_area": 129,
     "service_area": 121,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
@@ -633,7 +633,7 @@
     "indoor_area": 1090,
     "terrace_area": 324,
     "service_area": 230,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "",
     "parent_id": ""
   },
