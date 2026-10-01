@@ -345,7 +345,7 @@
     "indoor_area": 378,
     "terrace_area": 212,
     "service_area": 81,
-    "leased_status": "Yes",
+    "leased_status": "No",
     "category": "Parent",
     "parent_id": ""
   },
@@ -356,7 +356,7 @@
     "indoor_area": 235,
     "terrace_area": 136,
     "service_area": 42,
-    "leased_status": "Yes",
+    "leased_status": "No",
     "category": "Child",
     "parent_id": "C-300",
     "unit_type": "Office Space"
